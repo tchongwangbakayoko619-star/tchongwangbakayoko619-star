@@ -24,13 +24,9 @@
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-## 📊 Statistiques GitHub
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=tchongwangbakayoko619-star&show_icons=true&theme=radical)
-![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=tchongwangbakayoko619-star&layout=compact&theme=radical)
-- 🛳️ [Titanic ML](https://github.com/tchongwangbakayoko619-star/Titanic-ml)  
-  Prédiction de survie des passagers du Titanic avec Random Forest.  
-  **Score Kaggle : 0.77272**
 ## 📫 Contact
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tchongwangbakayoko619@gmail.com)
