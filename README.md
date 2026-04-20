@@ -31,8 +31,22 @@ class Nathan:
                   "Interfaces interactives", "Déploiement"],
     }
 
-    motto = "Transformer les données et les idées en solutions concrètes."
+    passion   = "Deep Learning — réseaux convolutionnels, autoencodeurs, vision par ordinateur"
+    motto     = "Transformer les données et les idées en solutions concrètes."
 ```
+
+---
+
+## 🧠 Ma passion — le Deep Learning
+
+> *Le Deep Learning me fascine profondément : la capacité d'un réseau de neurones à apprendre des représentations complexes à partir de données brutes est pour moi la frontière la plus excitante de l'informatique moderne.*
+
+Ce qui m'attire particulièrement :
+
+- **Réseaux convolutionnels (CNN)** — classification d'images, détection d'objets
+- **Autoencodeurs** — compression, débruitage, génération
+- **Computer Vision** — reconnaissance de panneaux, analyse visuelle
+- **Modèles génératifs** — VAE, représentations latentes
 
 ---
 
@@ -45,7 +59,7 @@ class Nathan:
 ### 📊 Data Science & Machine Learning
 - Préparation, nettoyage et analyse de données
 - Modèles prédictifs sur mesure
-- Deep Learning — CNN, RNN, Autoencodeurs, VAE
+- Deep Learning — CNN, Autoencodeurs, VAE
 - Computer Vision & NLP
 - Automatisation de pipelines end-to-end
 
@@ -62,6 +76,19 @@ class Nathan:
 </td>
 </tr>
 </table>
+
+---
+
+## 💼 Projets phares
+
+| # | Projet | Description | Stack |
+|:-:|--------|-------------|-------|
+| 🎓 | [**Prédiction réussite étudiante**](https://github.com/tchongwangbakayoko619-star/pred-reussite-etudiante-enspd) | Modèle prédictif de la réussite académique des étudiants à l'ENSPD | `Python` `Sklearn` `Pandas` |
+| 🚦 | [**Traffic Sign CNN Classifier**](https://github.com/tchongwangbakayoko619-star/traffic-sign-cnn-classifier) | Classification de panneaux routiers avec un réseau convolutionnel | `PyTorch` `CNN` `CV` |
+| 🔬 | [**Autoencodeur MNIST**](https://github.com/tchongwangbakayoko619-star/Autoencodeur-avec-pytorch-sur-le-dataset-MINST) | Autoencodeur convolutionnel pour débruitage d'images MNIST | `PyTorch` `Deep Learning` |
+| 🧾 | [**Django Invoice System**](https://github.com/tchongwangbakayoko619-star/django-invoice-system) | Système de facturation complet avec tableau de bord | `Django` `Python` `HTML/CSS` |
+| 🏫 | [**School Payment System**](https://github.com/tchongwangbakayoko619-star/school-payment-system) | Gestion des paiements scolaires avec interface admin | `Django` `JavaScript` |
+| 🔌 | [**API Django REST**](https://github.com/tchongwangbakayoko619-star/creation_de__notre_premier_api_avec_django) | Création et documentation d'une API RESTful avec Django | `Django REST` `Python` |
 
 ---
 
@@ -90,16 +117,6 @@ class Nathan:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
----
-
-## 💼 Projets phares
-
-| Projet | Description | Stack |
-|--------|-------------|-------|
-| 🔬 [Denoising Autoencoder](https://github.com/tchongwangbakayoko619-star) | Reconstruction d'images MNIST corrompues par bruit gaussien | `PyTorch` `CNN` |
-| 📊 [Pipeline Data Science](https://github.com/tchongwangbakayoko619-star) | Automatisation complète d'un pipeline ML end-to-end | `Python` `Pandas` `Sklearn` |
-| 🌐 [App Web Full-Stack](https://github.com/tchongwangbakayoko619-star) | Application moderne avec API REST et dashboard interactif | `Django` `JavaScript` |
 
 ---
 
