@@ -19,38 +19,40 @@
 class Nathan:
     name      = "Tchongwang Bakayoko"
     roles     = ["Data Scientist", "ML Engineer", "Full-Stack Developer"]
-    status    = "Freelance — Open to projects"
-    location  = "Disponible à distance · Worldwide"
+    status    = "Disponible — Stages & Projets freelance"
+    location  = "Cameroun · Remote Worldwide"
 
     expertise = {
         "data" : ["Analyse exploratoire", "Feature Engineering",
                   "Modélisation prédictive", "Pipeline automation"],
         "ml"   : ["Supervised / Unsupervised Learning", "Deep Learning",
-                  "Computer Vision", "NLP"],
+                  "Computer Vision", "NLP", "IA Générative"],
         "web"  : ["Applications full-stack modernes", "API REST",
-                  "Interfaces interactives", "Déploiement"],
+                  "Next.js / React", "Supabase / PostgreSQL",
+                  "CI/CD avec GitHub Actions", "Déploiement"],
     }
 
-    passion   = "Deep Learning — réseaux convolutionnels, autoencodeurs, vision par ordinateur"
+    passion   = "Deep Learning & IA générative — construire des produits intelligents"
     motto     = "Transformer les données et les idées en solutions concrètes."
 ```
 
 ---
 
-## 🧠 Ma passion — le Deep Learning
+## 🧠 Ma passion — Deep Learning & IA Générative
 
-> *Le Deep Learning me fascine profondément : la capacité d'un réseau de neurones à apprendre des représentations complexes à partir de données brutes est pour moi la frontière la plus excitante de l'informatique moderne.*
+> *Ce qui me fascine aujourd'hui, c'est la convergence entre le Deep Learning et les applications web modernes : intégrer des modèles intelligents directement dans des interfaces utilisateur réactives et accessibles.*
 
 Ce qui m'attire particulièrement :
 
 - **Réseaux convolutionnels (CNN)** — classification d'images, détection d'objets
 - **Autoencodeurs** — compression, débruitage, génération
+- **IA Générative** — LLMs, prompting, intégration dans des apps web
 - **Computer Vision** — reconnaissance de panneaux, analyse visuelle
 - **Modèles génératifs** — VAE, représentations latentes
 
 ---
 
-## 🚀 Ce que je fais pour vous
+## 🚀 Ce que je fais
 
 <table>
 <tr>
@@ -61,15 +63,18 @@ Ce qui m'attire particulièrement :
 - Modèles prédictifs sur mesure
 - Deep Learning — CNN, Autoencodeurs, VAE
 - Computer Vision & NLP
+- Intégration d'IA générative dans des produits
 - Automatisation de pipelines end-to-end
 
 </td>
 <td width="50%">
 
 ### 🌐 Développement Web Full-Stack
-- Applications web modernes et responsive
+- Applications web modernes avec **Next.js & React**
 - APIs REST robustes avec Django / Laravel
-- Interfaces dynamiques en JavaScript
+- Interfaces dynamiques en **JavaScript**
+- Base de données avec **PostgreSQL / Supabase**
+- **CI/CD avec GitHub Actions**
 - Intégration de modèles ML dans des apps
 - Déploiement et mise en production
 
@@ -87,7 +92,7 @@ Ce qui m'attire particulièrement :
 | 🚦 | [**Traffic Sign CNN Classifier**](https://github.com/tchongwangbakayoko619-star/traffic-sign-cnn-classifier) | Classification de panneaux routiers avec un réseau convolutionnel | `PyTorch` `CNN` `CV` |
 | 🔬 | [**Autoencodeur MNIST**](https://github.com/tchongwangbakayoko619-star/Autoencodeur-avec-pytorch-sur-le-dataset-MINST) | Autoencodeur convolutionnel pour débruitage d'images MNIST | `PyTorch` `Deep Learning` |
 | 🧾 | [**Django Invoice System**](https://github.com/tchongwangbakayoko619-star/django-invoice-system) | Système de facturation complet avec tableau de bord | `Django` `Python` `HTML/CSS` |
-| 🏫 | [**School Payment System**](https://github.com/tchongwangbakayoko619-star/school-payment-system) | Gestion des paiements scolaires avec interface admin | `Django` `JavaScript` |
+| 🏫 | [**School Payment System**](https://github.com/tchongwangbakayoko619-star/school-payment-system) | Gestion des paiements scolaires avec interface admin — intégration Supabase en cours | `Django` `JavaScript` `Supabase` |
 | 🔌 | [**API Django REST**](https://github.com/tchongwangbakayoko619-star/creation_de__notre_premier_api_avec_django) | Création et documentation d'une API RESTful avec Django | `Django REST` `Python` |
 
 ---
@@ -105,18 +110,32 @@ Ce qui m'attire particulièrement :
 
 **Développement Web**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Outils & Workflow**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+---
+
+## ✨ Ce qui me distingue
+
+- 🤖 **IA Générative dans les apps** — j'explore activement l'intégration de LLMs et d'IA générative dans des interfaces web modernes pour construire des outils éducatifs et productifs
+- ⚙️ **GitHub Actions & CI/CD** — automatisation des déploiements et pipelines de test sur mes projets
+- 🗄️ **Supabase / PostgreSQL** — backends modernes, authentification et temps réel pour des apps web réactives
+- 📚 **Passion pour l'éducation tech** — j'aime partager, documenter et rendre la technologie accessible
 
 ---
 
@@ -125,7 +144,7 @@ Ce qui m'attire particulièrement :
 <div align="center">
 
 **Vous avez un projet de Data Science, ML ou développement web ?**
-**Je suis disponible en freelance pour vous accompagner.**
+**Je suis disponible pour vous accompagner — stage ou freelance.**
 
 <br/>
 
