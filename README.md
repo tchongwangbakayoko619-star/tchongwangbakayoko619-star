@@ -88,6 +88,7 @@ Ce qui m'attire particulièrement :
 
 | # | Projet | Description | Stack |
 |:-:|--------|-------------|-------|
+| 📚 | [**BiblioAPI**](https://github.com/tchongwangbakayoko619-star/biblioapi) | API REST de gestion de bibliothèque — catalogue de livres, emprunts, auth JWT, documentation OpenAPI auto-générée | `Django REST` `PostgreSQL` `JWT` `pytest` |
 | 🎓 | [**Prédiction réussite étudiante**](https://github.com/tchongwangbakayoko619-star/pred-reussite-etudiante-enspd) | Modèle prédictif de la réussite académique des étudiants à l'ENSPD | `Python` `Sklearn` `Pandas` |
 | 🚦 | [**Traffic Sign CNN Classifier**](https://github.com/tchongwangbakayoko619-star/traffic-sign-cnn-classifier) | Classification de panneaux routiers avec un réseau convolutionnel | `PyTorch` `CNN` `CV` |
 | 🔬 | [**Autoencodeur MNIST**](https://github.com/tchongwangbakayoko619-star/Autoencodeur-avec-pytorch-sur-le-dataset-MINST) | Autoencodeur convolutionnel pour débruitage d'images MNIST | `PyTorch` `Deep Learning` |
@@ -114,6 +115,7 @@ Ce qui m'attire particulièrement :
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -125,6 +127,8 @@ Ce qui m'attire particulièrement :
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![uv](https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge&logo=python&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
@@ -135,6 +139,7 @@ Ce qui m'attire particulièrement :
 - 🤖 **IA Générative dans les apps** — j'explore activement l'intégration de LLMs et d'IA générative dans des interfaces web modernes pour construire des outils éducatifs et productifs
 - ⚙️ **GitHub Actions & CI/CD** — automatisation des déploiements et pipelines de test sur mes projets
 - 🗄️ **Supabase / PostgreSQL** — backends modernes, authentification et temps réel pour des apps web réactives
+- 🧪 **Rigueur & qualité** — tests automatisés (pytest), linting (ruff) et pre-commit hooks intégrés à mon workflow de développement
 - 📚 **Passion pour l'éducation tech** — j'aime partager, documenter et rendre la technologie accessible
 
 ---
