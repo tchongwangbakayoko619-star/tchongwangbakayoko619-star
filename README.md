@@ -1,10 +1,10 @@
-## Hi there, I'm TCHONGWANG NATHAN 👋
+## Salut, moi c'est TCHONGWANG NATHAN 👋
 
-Passionate about Data Science, Artificial Intelligence, and Web Development. I build robust backend APIs and intelligent data-driven applications.
+Passionné par la Data Science, l'Intelligence Artificielle et le Développement Web. Je conçois des API backend robustes et des applications intelligentes orientées données.
 
 ---
 
-### 🚀 Tools & Technologies
+### 🚀 Outils & Technologies
 
 <p align="left" dir="auto">
   <a href="https://www.python.org" rel="nofollow">
@@ -14,9 +14,9 @@ Passionate about Data Science, Artificial Intelligence, and Web Development. I b
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40">
   </a>
   <a href="https://www.django-rest-framework.org/" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/encode/django-rest-framework/master/docs/img/logo.png" alt="drf" height="40">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/djangorestframework/djangorestframework-original.svg" alt="django rest framework" width="40" height="40">
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow">
+  <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" rel="nofollow">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40">
   </a>
   <a href="https://tailwindcss.com/" rel="nofollow">
@@ -59,9 +59,9 @@ Passionate about Data Science, Artificial Intelligence, and Web Development. I b
 
 ---
 
-### 📌 About Me
+### 📌 À propos de moi
 
-* 🔭 **Current Focus:** Deep Learning architectures, Computer Vision, and scalable Django REST backends
-* 🧠 **Tech Stack:** Python, PyTorch, Django / DRF, Redis, Docker, PostgreSQL
-* ⚡ **Design & Tools:** Postman, Tailwind CSS, Git & Linux CLI
-* 💬 **Ask me about:** Machine Learning models, API architecture, data pipelines
+* 🔭 **Projets actuels :** Architectures Deep Learning, vision par ordinateur et backends évolutifs avec Django REST
+* 🧠 **Stack technique :** Python, PyTorch, Django / DRF, Redis, Docker, PostgreSQL
+* ⚡ **Outils & Design :** Postman, Tailwind CSS, Git & CLI Linux
+* 💬 **Discutons de :** Modèles de Machine Learning, architecture d'API, pipelines de données
