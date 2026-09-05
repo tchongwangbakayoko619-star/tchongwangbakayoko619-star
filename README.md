@@ -14,7 +14,7 @@ Passionné par la Data Science, l'Intelligence Artificielle et le Développement
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40">
   </a>
   <a href="https://www.django-rest-framework.org/" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/djangorestframework/djangorestframework-original.svg" alt="django rest framework" width="40" height="40">
+    <img src="https://img.shields.io/badge/DJANGO%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white" alt="django rest framework" height="40">
   </a>
   <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" rel="nofollow">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40">
