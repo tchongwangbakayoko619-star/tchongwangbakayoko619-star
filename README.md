@@ -3,9 +3,7 @@
 Passionné par la Data Science, l'Intelligence Artificielle et le Développement Web. Je conçois des API backend robustes et des applications intelligentes orientées données.
 
 ---
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tchongwangbakayoko619-star&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Nathan's GitHub Stats" />
-</p>
+
 ### 🚀 Outils & Technologies
 
 <p align="left" dir="auto">
