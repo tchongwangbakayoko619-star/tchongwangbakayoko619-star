@@ -59,6 +59,19 @@ Passionné par la Data Science, l'Intelligence Artificielle et le Développement
 
 ---
 
+### 🔥 Streak & Activité Continue
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=tchongwangbakayoko619-star&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tchongwangbakayoko619-star&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tchongwangbakayoko619-star&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+</p>
+
+---
+
 ### 📌 À propos de moi
 
 * 🔭 **Projets actuels :** Architectures Deep Learning, vision par ordinateur et backends évolutifs avec Django REST
