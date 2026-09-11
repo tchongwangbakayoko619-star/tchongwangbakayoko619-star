@@ -75,3 +75,4 @@ Passionné par la Data Science, l'Intelligence Artificielle et le Développement
 * 🧠 **Stack technique :** Python, PyTorch, Django / DRF, Redis, Docker, PostgreSQL
 * ⚡ **Outils & Design :** Postman, Tailwind CSS, Git & CLI Linux
 * 💬 **Discutons de :** Modèles de Machine Learning, architecture d'API, pipelines de données
+ ameliorer
