@@ -64,7 +64,7 @@ Passionné par la Data Science, l'Intelligence Artificielle et le Développement
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=tchongwangbakayoko619-star&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
 </p>
----
+
 
 ### 📌 À propos de moi
 
