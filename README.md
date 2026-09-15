@@ -60,11 +60,8 @@ Passionné par la Data Science, l'Intelligence Artificielle et le Développement
 ---
 
 ### 🔥 Streak & Activité Continue
-
 <p align="center">
-  <a href="https://github.com/tchongwangbakayoko619-star">
-    <img src="https://streak-stats.demolab.com?user=tchongwangbakayoko619-star&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=tchongwangbakayoko619-star&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
 
 ---
