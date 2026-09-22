@@ -1,4 +1,4 @@
-## Salut, moi c'est TCHONGWANG NATHAN 👋
+## Salut, moi c'est TCHONGWANG NATHANa 👋
 
 Passionné par la Data Science, l'Intelligence Artificielle et le Développement Web. Je conçois des API backend robustes et des applications intelligentes orientées données.
 
