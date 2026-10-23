@@ -1,6 +1,8 @@
 ## Salut, moi c'est TCHONGWANG NATHAN 👋
 
-Passionné par la Data Science, l'Intelligence Artificielle et le Développement Web. Je conçois des API backend robustes et des applications intelligentes orientées données.
+### 🤖 AI Engineer & 🛠️ Data Engineer
+
+Je conçois des systèmes d'IA en production et des pipelines de données fiables, de l'ingestion à la mise en service des modèles. J'aime relier les deux mondes : des données propres et scalables pour des modèles performants et déployables.
 
 ---
 
@@ -9,18 +11,6 @@ Passionné par la Data Science, l'Intelligence Artificielle et le Développement
 <p align="left" dir="auto">
   <a href="https://www.python.org" rel="nofollow">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40">
-  </a>
-  <a href="https://www.djangoproject.com/" rel="nofollow">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40">
-  </a>
-  <a href="https://www.django-rest-framework.org/" rel="nofollow">
-    <img src="https://img.shields.io/badge/DJANGO%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white" alt="django rest framework" height="40">
-  </a>
-  <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40">
-  </a>
-  <a href="https://tailwindcss.com/" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40">
   </a>
   <a href="https://pytorch.org/" rel="nofollow">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40">
@@ -37,11 +27,26 @@ Passionné par la Data Science, l'Intelligence Artificielle et le Développement
   <a href="https://numpy.org/" rel="nofollow">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40">
   </a>
+  <a href="https://spark.apache.org/" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" alt="spark" width="40" height="40">
+  </a>
+  <a href="https://airflow.apache.org/" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" alt="airflow" width="40" height="40">
+  </a>
+  <a href="https://kafka.apache.org/" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="40" height="40">
+  </a>
   <a href="https://www.postgresql.org" rel="nofollow">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40">
   </a>
   <a href="https://redis.io" rel="nofollow">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40">
+  </a>
+  <a href="https://www.djangoproject.com/" rel="nofollow">
+    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40">
+  </a>
+  <a href="https://www.django-rest-framework.org/" rel="nofollow">
+    <img src="https://img.shields.io/badge/DJANGO%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white" alt="django rest framework" height="40">
   </a>
   <a href="https://www.docker.com/" rel="nofollow">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40">
@@ -59,16 +64,29 @@ Passionné par la Data Science, l'Intelligence Artificielle et le Développement
 
 ---
 
+### 🧩 Domaines d'expertise
+
+| 🤖 AI Engineering | 🛠️ Data Engineering |
+|---|---|
+| Deep Learning & vision par ordinateur | Pipelines ETL / ELT |
+| Entraînement, évaluation & optimisation de modèles | Orchestration de workflows (Airflow) |
+| Déploiement de modèles via API (Django REST) | Traitement batch & streaming (Spark, Kafka) |
+| MLOps & mise en production | Modélisation et optimisation de bases de données (PostgreSQL) |
+
+---
+
 ### 🔥 Streak & Activité Continue
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=tchongwangbakayoko619-star&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
+---
 
 ### 📌 À propos de moi
 
-* 🔭 **Projets actuels :** Architectures Deep Learning, vision par ordinateur et backends évolutifs avec Django REST
-* 🧠 **Stack technique :** Python, PyTorch, Django / DRF, Redis, Docker, PostgreSQL
-* ⚡ **Outils & Design :** Postman, Tailwind CSS, Git & CLI Linux
-* 💬 **Discutons de :** Modèles de Machine Learning, architecture d'API, pipelines de données
+* 🔭 **Projets actuels :** Architectures Deep Learning, vision par ordinateur, pipelines de données et backends évolutifs avec Django REST
+* 🧠 **Stack IA :** Python, PyTorch, TensorFlow, scikit-learn
+* 🛠️ **Stack Data :** Pandas, Spark, Airflow, Kafka, PostgreSQL, Redis
+* ⚡ **Outils & DevOps :** Docker, Postman, Git & CLI Linux
+* 💬 **Discutons de :** Modèles de Machine Learning, architecture de pipelines de données, MLOps, conception d'API
