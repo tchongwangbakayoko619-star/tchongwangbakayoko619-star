@@ -1,8 +1,8 @@
 ## Salut, moi c'est TCHONGWANG NATHAN 👋
 
-### 🤖 Machine Learning Engineer | ⚙️ DevOps & 🛠️ Django Backend Developer
+### 🤖 Machine Learning Engineer | ☁️ Cloud & DevOps Engineer & 🛠️ Django Backend Developer
 
-Je conçois des architectures logicielles robustes et des systèmes d'IA de bout en bout, de l'entraînement des modèles en profondeur jusqu'à leur mise en production industrialisée. J'associe performance algorithmique, automatisation DevOps et backends scalables pour donner vie à des applications intelligentes et fiables.
+Je conçois des architectures logicielles robustes et des systèmes d'IA de bout en bout, de l'entraînement des modèles en profondeur jusqu'à leur mise en production industrialisée sur le Cloud. J'associe performance algorithmique, infrastructure as code (IaC), automatisation DevOps et backends scalables pour donner vie à des applications intelligentes et fiables.
 
 ---
 
@@ -20,6 +20,12 @@ Je conçois des architectures logicielles robustes et des systèmes d'IA de bout
   </a>
   <a href="https://scikit-learn.org/" rel="nofollow">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40">
+  </a>
+  <a href="https://aws.amazon.com/" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40">
+  </a>
+  <a href="https://www.terraform.io/" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40">
   </a>
   <a href="https://www.djangoproject.com/" rel="nofollow">
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40">
@@ -39,6 +45,12 @@ Je conçois des architectures logicielles robustes et des systèmes d'IA de bout
   <a href="https://www.docker.com/" rel="nofollow">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40">
   </a>
+  <a href="https://prometheus.io/" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="prometheus" width="40" height="40">
+  </a>
+  <a href="https://grafana.com/" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="grafana" width="40" height="40">
+  </a>
   <a href="https://nginx.org/" rel="nofollow">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40">
   </a>
@@ -48,20 +60,17 @@ Je conçois des architectures logicielles robustes et des systèmes d'IA de bout
   <a href="https://git-scm.com/" rel="nofollow">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40">
   </a>
-  <a href="https://pandas.pydata.org/" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40">
-  </a>
 </p>
 
 ---
 
 ### 🧩 Domaines d'expertise
 
-| 🧠 Machine Learning & MLOps | ⚙️ DevOps & Systèmes | 🌐 Backend Django |
+| 🧠 Machine Learning & MLOps | ☁️ Cloud & DevOps (AWS / IaC) | 🌐 Backend Django |
 |---|---|---|
-| Deep Learning & Vision par Ordinateur | Conteneurisation & Orchestration (Docker, Nginx) | Architectures robustes (Django & DRF) |
-| Entraînement, Fine-tuning & Évaluation | Gestion de VPS, SSH & CLI Linux | Gestion asynchrone (Celery, Redis) |
-| MLOps & Déploiement de modèles | CI/CD, Automatisation & Monitoring | Modélisation & Optimisation (PostgreSQL) |
+| Deep Learning & Vision par Ordinateur | Infrastructure as Code (Terraform, AWS) | Architectures robustes (Django & DRF) |
+| Entraînement, Fine-tuning & Évaluation | Conteneurisation & Orchestration (Docker, Nginx) | Gestion asynchrone (Celery, Redis) |
+| MLOps & Déploiement de modèles | Monitoring, Observabilité (Prometheus, Grafana) | Modélisation & Optimisation (PostgreSQL) |
 
 ---
 
@@ -75,8 +84,8 @@ Je conçois des architectures logicielles robustes et des systèmes d'IA de bout
 
 ### 📌 À propos de moi
 
-- 🔭 **Projets actuels :** Industrialisation de modèles ML, backends haute performance avec Django REST, et déploiement cloud sur VPS Linux.
+- 🔭 **Projets actuels :** Déploiement cloud sur AWS, automatisation d'infrastructures avec Terraform, et industrialisation de pipelines MLOps.
 - 🧠 **Stack ML :** Python, PyTorch, TensorFlow, scikit-learn
+- ☁️ **Stack Cloud & DevOps :** AWS, Terraform, Docker, Prometheus, Grafana, Nginx, Git, Linux CLI
 - 🌐 **Stack Backend :** Django, Django REST Framework, Celery, PostgreSQL, Redis
-- ⚡ **Stack DevOps & Outils :** Docker, Nginx, Git, CLI Linux, Postman
-- 💬 **Discutons de :** MLOps, architecture de modèles en production, conception d'API scalables et bonnes pratiques DevOps.
+- 💬 **Discutons de :** Cloud architecture, MLOps, automatisation Terraform et bonnes pratiques DevOps.
