@@ -22,7 +22,7 @@ Je conçois des architectures logicielles robustes et des systèmes d'IA de bout
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40">
   </a>
   <a href="https://aws.amazon.com/" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40">
+    <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40">
   </a>
   <a href="https://www.terraform.io/" rel="nofollow">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40">
@@ -39,8 +39,8 @@ Je conçois des architectures logicielles robustes et des systèmes d'IA de bout
   <a href="https://redis.io" rel="nofollow">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40">
   </a>
-  <a href="https://celeryproject.org/" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/celery/celery-original.svg" alt="celery" width="40" height="40">
+  <a href="https://docs.celeryq.dev/" rel="nofollow">
+    <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" alt="celery" height="40">
   </a>
   <a href="https://www.docker.com/" rel="nofollow">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40">
